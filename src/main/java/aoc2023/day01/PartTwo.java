@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.util.Arrays;
 
 public class PartTwo {
-    private static final String INPUT_FILE = "inputs/day-one.txt";
+    private static final String INPUT_FILE = "inputs/day01.txt";
 
     public static void main(String[] args) throws IOException {
         int result = process(InputParser.getInput(INPUT_FILE));

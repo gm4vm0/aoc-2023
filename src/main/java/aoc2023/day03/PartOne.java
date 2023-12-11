@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 public class PartOne {
-    private static final String INPUT_FILE = "inputs/day-three.txt";
+    private static final String INPUT_FILE = "inputs/day03.txt";
 
     public static void main(String[] args) throws IOException {
         int result = process(InputParser.getInput(INPUT_FILE));

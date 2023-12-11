@@ -7,7 +7,7 @@ import java.util.Arrays;
 import java.util.List;
 
 public class PartOne {
-    private static final String INPUT_FILE = "inputs/day-four.txt";
+    private static final String INPUT_FILE = "inputs/day04.txt";
 
     public static void main(String[] args) throws IOException {
         int result = process(InputParser.getInput(INPUT_FILE));

@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class PartTwo {
-    private static final String INPUT_FILE = "inputs/day-two.txt";
+    private static final String INPUT_FILE = "inputs/day02.txt";
 
     public static void main(String[] args) throws IOException {
         int result = process(InputParser.getInput(INPUT_FILE));

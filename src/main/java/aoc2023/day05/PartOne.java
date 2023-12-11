@@ -7,7 +7,7 @@ import java.util.*;
 import java.util.stream.Collectors;
 
 public class PartOne {
-    private static final String INPUT_FILE = "inputs/day-five.txt";
+    private static final String INPUT_FILE = "inputs/day05.txt";
 
     public static void main(String[] args) throws IOException {
         long result = process(InputParser.getInput(INPUT_FILE));

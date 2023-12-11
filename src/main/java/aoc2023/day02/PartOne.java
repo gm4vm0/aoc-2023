@@ -8,7 +8,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class PartOne {
-    private static final String INPUT_FILE = "inputs/day-two.txt";
+    private static final String INPUT_FILE = "inputs/day02.txt";
 
     private static final Map<String, Integer> MAXIMUMS = new HashMap<>() {{
         put("red", 12);

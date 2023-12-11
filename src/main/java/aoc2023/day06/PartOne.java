@@ -5,7 +5,7 @@ import aoc2023.utils.InputParser;
 import java.io.IOException;
 
 public class PartOne {
-    private static final String INPUT_FILE = "inputs/day-six.txt";
+    private static final String INPUT_FILE = "inputs/day06.txt";
 
     public static void main(String[] args) throws IOException {
         int result = process(InputParser.getInput(INPUT_FILE));
